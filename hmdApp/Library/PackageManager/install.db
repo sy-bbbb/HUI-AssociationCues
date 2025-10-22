@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "42041f7dc068",
+        "mtime": 1757569159671,
+        "size": 10827883,
+        "localPath": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.11.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "f2323a9b7aec",
+        "mtime": 1757569159718,
+        "size": 11691469,
+        "localPath": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "aab256284dc6",
+        "mtime": 1757569159739,
+        "size": 5328617,
+        "localPath": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "650cce437d92",
+        "mtime": 1757569159746,
+        "size": 2111115,
+        "localPath": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.3.tgz"
+      }
+    }
+  }
+}

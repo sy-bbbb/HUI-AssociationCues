@@ -1,0 +1,1 @@
+public enum AppDeviceType { hmd, smartphone, desktop }

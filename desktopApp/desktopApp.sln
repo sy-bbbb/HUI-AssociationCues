@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{388BC160-330E-EE26-C492-2D86C30D3622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonRealtime", "PhotonRealtime.csproj", "{F6CE7E3E-DCEB-D105-4F2C-2242430477A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Editor", "PhotonUnityNetworking.Editor.csproj", "{4B2C59D0-6CEE-896E-7B33-230A35D57F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking", "PhotonUnityNetworking.csproj", "{37636689-EB31-859D-CE6A-ECB3867F34FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388BC160-330E-EE26-C492-2D86C30D3622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388BC160-330E-EE26-C492-2D86C30D3622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388BC160-330E-EE26-C492-2D86C30D3622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388BC160-330E-EE26-C492-2D86C30D3622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CE7E3E-DCEB-D105-4F2C-2242430477A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CE7E3E-DCEB-D105-4F2C-2242430477A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CE7E3E-DCEB-D105-4F2C-2242430477A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CE7E3E-DCEB-D105-4F2C-2242430477A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2C59D0-6CEE-896E-7B33-230A35D57F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2C59D0-6CEE-896E-7B33-230A35D57F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2C59D0-6CEE-896E-7B33-230A35D57F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2C59D0-6CEE-896E-7B33-230A35D57F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37636689-EB31-859D-CE6A-ECB3867F34FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37636689-EB31-859D-CE6A-ECB3867F34FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37636689-EB31-859D-CE6A-ECB3867F34FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37636689-EB31-859D-CE6A-ECB3867F34FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

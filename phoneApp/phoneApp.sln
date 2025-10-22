@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{FA3B89FE-E1BC-7FE7-2ED3-038984CFE4DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonRealtime", "PhotonRealtime.csproj", "{7D9FC1AD-D4D5-E401-BB22-3569B845C349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Editor", "PhotonUnityNetworking.Editor.csproj", "{73D3694F-CAFD-BF48-BB80-7AEAEE0BC532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking", "PhotonUnityNetworking.csproj", "{443F8912-FE27-131E-F653-F567BC7A9EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3B89FE-E1BC-7FE7-2ED3-038984CFE4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3B89FE-E1BC-7FE7-2ED3-038984CFE4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3B89FE-E1BC-7FE7-2ED3-038984CFE4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3B89FE-E1BC-7FE7-2ED3-038984CFE4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9FC1AD-D4D5-E401-BB22-3569B845C349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9FC1AD-D4D5-E401-BB22-3569B845C349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9FC1AD-D4D5-E401-BB22-3569B845C349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9FC1AD-D4D5-E401-BB22-3569B845C349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D3694F-CAFD-BF48-BB80-7AEAEE0BC532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D3694F-CAFD-BF48-BB80-7AEAEE0BC532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D3694F-CAFD-BF48-BB80-7AEAEE0BC532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D3694F-CAFD-BF48-BB80-7AEAEE0BC532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443F8912-FE27-131E-F653-F567BC7A9EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443F8912-FE27-131E-F653-F567BC7A9EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443F8912-FE27-131E-F653-F567BC7A9EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443F8912-FE27-131E-F653-F567BC7A9EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
