@@ -10,8 +10,8 @@ public class QuizRemoteLoader : MonoBehaviour
     public ConditionManager conditionManager;
     public TaskManager taskManager;
 
-    private string sheetID = "1EfZgXCWRBTnIy_1__mlUA8t8wrCc8-WshBPf00HuWJU";
-    private string apiKey = "AIzaSyDb0Q5TexdVQ5WW946GDumvCEfwkGj38Ms";
+    private string sheetID = "";
+    private string apiKey = "";
 
     public void StartFetchingQuizzes()
     {

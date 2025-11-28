@@ -3,23 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|c:\\users\\sy\\git\\hui-associationcues\\hmdapp\\assets\\1_scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\conditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\conditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\phonelabelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\phonelabelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|c:\\users\\sy\\git\\hui-associationcues\\hmdapp\\assets\\1_scripts\\quizremoteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\quizremoteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\quizremoteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,6 +21,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\modelsizechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\modelsizechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|c:\\users\\sy\\git\\hui-associationcues\\hmdapp\\assets\\1_scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\conditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\conditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "QuizManager.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\QuizManager.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\QuizManager.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ModelSizeChecker.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\ModelSizeChecker.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\ModelSizeChecker.cs",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "NetworkManager.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\NetworkManager.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\NetworkManager.cs",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "BlockDataManager.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\BlockDataManager.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\BlockDataManager.cs",
@@ -98,46 +98,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "QuizRemoteLoader.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\QuizRemoteLoader.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\QuizRemoteLoader.cs",
               "ToolTip": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\QuizRemoteLoader.cs",
               "RelativeToolTip": "Assets\\1_Scripts\\QuizRemoteLoader.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T06:10:28.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TaskManager.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\TaskManager.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\TaskManager.cs",
               "ToolTip": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\TaskManager.cs",
               "RelativeToolTip": "Assets\\1_Scripts\\TaskManager.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAswDoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T06:09:55.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PhoneLabelHandler.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\PhoneLabelHandler.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\PhoneLabelHandler.cs",
               "ToolTip": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\PhoneLabelHandler.cs",
               "RelativeToolTip": "Assets\\1_Scripts\\PhoneLabelHandler.cs",
-              "ViewState": "AgIAAMIAAAAAAAAAAADwvyoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T06:08:55.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ConditionManager.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\ConditionManager.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\ConditionManager.cs",
@@ -145,8 +145,7 @@
               "RelativeToolTip": "Assets\\1_Scripts\\ConditionManager.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAAIwIUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:07:02.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T06:07:02.707Z"
             }
           ]
         }
