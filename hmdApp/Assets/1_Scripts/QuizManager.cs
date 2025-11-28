@@ -94,18 +94,14 @@ public class QuizManager : MonoBehaviour
 
     private void OnAnswerSelected(int selectedIndex)
     {
-        // A selection has been made, so enable the next button.
         hasSelectedAnswer = true;
         if (nextButton != null)
         {
             nextButton.GetComponent<Interactable>().IsEnabled = true;
         }
 
-        // If the user clicks a new answer, update the index.
-        // If they click the same answer, the index just gets set to itself.
         selectedAnswerIndex = selectedIndex;
 
-        // Now, tell all buttons to update their visuals based on the definitive selectedAnswerIndex.
         UpdateButtonSelectionVisuals();
         //if (selectedAnswerIndex != selectedIndex)
         //{
@@ -145,14 +141,11 @@ public class QuizManager : MonoBehaviour
 
     private void UpdateButtonSelectionVisuals()
     {
-        // Loop through all answer buttons.
         for (int i = 0; i < buttonHelpers.Length; i++)
         {
             var interactable = buttonHelpers[i].GetComponent<Interactable>();
             if (interactable != null)
             {
-                // The button is toggled ON if its index matches the one we've stored.
-                // Otherwise, it is forced OFF.
                 interactable.IsToggled = (i == selectedAnswerIndex);
             }
         }
@@ -165,7 +158,6 @@ public class QuizManager : MonoBehaviour
             var interactable = buttonHelpers[i].GetComponent<Interactable>();
             if (interactable != null)
             {
-                // Set the toggle state. True if it's the selected button, false otherwise.
                 interactable.IsToggled = (i == selectedIndex);
             }
         }

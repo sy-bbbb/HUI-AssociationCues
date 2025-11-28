@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\quizremoteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\quizremoteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|c:\\users\\sy\\git\\hui-associationcues\\hmdapp\\assets\\1_scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\conditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +19,20 @@
       "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|c:\\users\\sy\\git\\hui-associationcues\\hmdapp\\assets\\1_scripts\\modelsizechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\modelsizechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|c:\\users\\sy\\git\\hui-associationcues\\hmdapp\\assets\\1_scripts\\quizremoteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\quizremoteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\blockdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\blockdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\assets\\1_scripts\\modelsizechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B330BDA-380D-CF79-1E66-BCA890474034}|Assembly-CSharp.csproj|solutionrelative:assets\\1_scripts\\modelsizechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1_Scripts\\QuizManager.cs",
+              "ToolTip": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\1_Scripts\\QuizManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:57:51.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ModelSizeChecker.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\ModelSizeChecker.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\ModelSizeChecker.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "NetworkManager.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\NetworkManager.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\NetworkManager.cs",
@@ -68,25 +85,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "BlockDataManager.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\BlockDataManager.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\BlockDataManager.cs",
               "ToolTip": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\BlockDataManager.cs",
               "RelativeToolTip": "Assets\\1_Scripts\\BlockDataManager.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAmwCEAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwCEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T23:20:35.098Z"
+              "WhenOpened": "2025-09-11T23:20:35.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "QuizRemoteLoader.cs",
               "DocumentMoniker": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\QuizRemoteLoader.cs",
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\QuizRemoteLoader.cs",
               "ToolTip": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\QuizRemoteLoader.cs",
               "RelativeToolTip": "Assets\\1_Scripts\\QuizRemoteLoader.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T06:10:28.712Z",
               "EditorCaption": ""
@@ -99,7 +117,7 @@
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\TaskManager.cs",
               "ToolTip": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\TaskManager.cs",
               "RelativeToolTip": "Assets\\1_Scripts\\TaskManager.cs",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAAADoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswDoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T06:09:55.005Z",
               "EditorCaption": ""
@@ -112,7 +130,7 @@
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\PhoneLabelHandler.cs",
               "ToolTip": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\PhoneLabelHandler.cs",
               "RelativeToolTip": "Assets\\1_Scripts\\PhoneLabelHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAMIAAAAAAAAAAADwvyoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T06:08:55.551Z",
               "EditorCaption": ""
@@ -125,7 +143,7 @@
               "RelativeDocumentMoniker": "Assets\\1_Scripts\\ConditionManager.cs",
               "ToolTip": "C:\\Users\\SY\\git\\HUI-AssociationCues\\hmdApp\\Assets\\1_Scripts\\ConditionManager.cs",
               "RelativeToolTip": "Assets\\1_Scripts\\ConditionManager.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAwwIYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAIwIUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T06:07:02.707Z",
               "EditorCaption": ""
