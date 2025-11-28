@@ -26,7 +26,7 @@ public class QuizRemoteLoader : MonoBehaviour
         switch (taskManager.CurrentTask)
         {
             case StudySettings.Task.task1:
-                targetSheetName = "Questions1_en";
+                targetSheetName = "Questions1";
                 break;
             case StudySettings.Task.task2:
                 targetSheetName = "Questions2";

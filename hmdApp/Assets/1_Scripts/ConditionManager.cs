@@ -128,13 +128,13 @@ public class ConditionManager : MonoBehaviourPunCallbacks
                 conditionLabel.text = "근접 모드";
                 break;
             case StudySettings.Condition.Line:
-                conditionLabel.text = "Line"; //"선 모드";
+                conditionLabel.text = "선 모드";
                 break;
             case StudySettings.Condition.Color:
                 conditionLabel.text = "색상 모드";
                 break;
             case StudySettings.Condition.Highlight:
-                conditionLabel.text = "Highlight";//"하이라이트 모드";
+                conditionLabel.text = "하이라이트 모드";
                 break;
             default:
                 conditionLabel.text = condition.ToString();

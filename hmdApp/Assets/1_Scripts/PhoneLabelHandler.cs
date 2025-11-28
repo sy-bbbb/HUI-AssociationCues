@@ -26,7 +26,7 @@ public class PhoneLabelHandler : MonoBehaviour
     // --- Google Sheets Configuration ---
     private const string GOOGLE_SHEETS_API_KEY = "AIzaSyDb0Q5TexdVQ5WW946GDumvCEfwkGj38Ms";
     private const string SHEET_ID = "1e_xp0G0IIslPq5JrR9QZJd2s6Qy11CYhfIF4Ef3xpo0";
-    private const string SHEET_NAME = "descriptions_en";
+    private const string SHEET_NAME = "descriptions";
 
     // Private state
     private Condition currentCondition;
